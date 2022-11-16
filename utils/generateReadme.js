@@ -68,7 +68,7 @@ ${renderLicenseLink(answers.license)}
 
 ## Questions
 If you have any questions, please email the developer at ${answers.email}
-GitHub: https://www.github.com/${data.username}
+GitHub: https://www.github.com/${answers.username}
 <br />
 
 <br />
