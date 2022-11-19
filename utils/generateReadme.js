@@ -29,7 +29,7 @@ function renderLicenseLink(license) {
 
 // Function renders license type and returns and empty string if none is provided.
 let renderLicenseSection = (license) =>
-  license !== "none" ? `This project uses the ${license} license` : ``;
+  license !== "none" ? `This project uses the ${license} license` : `N/A`;
 
 function generateReadme(answers) {
   return `
