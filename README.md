@@ -6,8 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Questions](#questions)
-
-<br />
+  <br />
 
 ## Description
 
@@ -16,6 +15,7 @@ This node.js application will allow you to create a Professional ReadMe using th
 The full video demonstrating the functionality of the application can be found here.
 
 <br />
+
 ## User Story
 
 ```
@@ -52,6 +52,7 @@ npm install inquirer
 ```
 
 <br />
+
 ## Usage
 
 At the root of the project, run the following command and answer the prompted questions:
