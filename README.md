@@ -13,8 +13,6 @@
 This node.js application will allow you to create a Professional ReadMe using the Command Line Interface.
 The full video demonstrating the functionality of the application can be found [here.](https://www.youtube.com/watch?v=YVCeuvgUEvg)
 
-The screenshot of the generated HTML file can be found [here.](https://youtu.be/_BunWH-N_DA)
-
 <br />
 
 ## User Story
